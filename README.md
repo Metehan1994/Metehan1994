@@ -4,4 +4,4 @@
 - 📫 How to reach me: metehan-erdogan@hotmail.com
 
 
-<h3 align="left">Connect with me:</h3>
+###Connect with me:
