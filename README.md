@@ -2,3 +2,6 @@
 
 - 🌱 I’m currently learning Go Lang.
 - 📫 How to reach me: metehan-erdogan@hotmail.com
+
+
+<h3 align="left">Connect with me:</h3>
