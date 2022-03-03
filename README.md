@@ -1,5 +1,12 @@
 <h1 align="center"> Hi 👋, I'm Metehan </h1>
 
+## Programming Languages:
+- C++ (intermediate)
+- Python (intermediate)
+- Matlab (intermediate)
+- Go (beginner)
+
+
 - 🌱 I’m currently learning **Go Lang**.
 - 📫 How to reach me: **metehan-erdogan@hotmail.com**
 
